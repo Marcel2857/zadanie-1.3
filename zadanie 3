@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="PL">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Zadanie 1.1</title>
+    <meta name="author" content="Marcel" />
+    <meta name="description" content="Zadanie trzecie" />
+    <meta name="keywords" content="zadanie, zadanie domowe, zadanie trzecie" />
+  </head>
+  <body>
+    <img src="./warhammer.jpg" width="690" height="361" alt="zdjęcie google" />
+    <a href="https://www.google.pl" target="_blank" rel="nofollow, noreferrer"
+      >Google</a
+    >
+  </body>
+</html>
